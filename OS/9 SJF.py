@@ -1,4 +1,3 @@
-#shit code
 process_queue = []
 total_wtime = 0
 ct = 0
